@@ -216,4 +216,4 @@ When the documentation mentions **`BASE_URL`** it refers to the Web-UI path stor
 
 ---
 
-> Generated automatically – last update: <!--DATE_PLACEHOLDER-->
+> Generated automatically – last update: 2025-07-01
